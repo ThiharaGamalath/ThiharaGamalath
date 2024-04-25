@@ -26,12 +26,12 @@ I'm a passionate student of network engineering, hailing from the picturesque to
 
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThariduNiroshan530&show_icons=true&theme=radical) | [![Tharidu Niroshan's Stri](https://streak-stats.demolab.com?user=ThariduNiroshan530&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiharaGamalath&show_icons=true&theme=radical) | [![Thihara Gamalath's Stri](https://streak-stats.demolab.com?user=ThiharaGamalath&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThariduNiroshan530&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                             
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiharaGamalath&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                             
 
 
-[![Tharidu Niroshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThariduNiroshan530&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Thihara Gamalath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiharaGamalath&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
