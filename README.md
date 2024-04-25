@@ -39,14 +39,7 @@ I'm a passionate student of network engineering, hailing from the picturesque to
 - **[Project Name]:** Brief description of the project.
 - **[Project Name]:** Brief description of the project.
 - **[Project Name]:** Brief description of the project.
-## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/thariduniroshan/
-- Twitter: https://twitter.com/Tharidu530
-- Email: thariduniroshan950@gmail.com
-- Portfolio Web: https://thariduniroshan530.github.io/Portfolio_Website/
-
-### Let's Secure the Digital World Together! 💻🔒
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/thariduniroshan/
