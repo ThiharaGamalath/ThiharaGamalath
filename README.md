@@ -34,8 +34,6 @@ I'm a passionate student of network engineering, hailing from the picturesque to
 [![Thihara Gamalath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiharaGamalath&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-
 ## Projects
 
 - **[Project Name]:** Brief description of the project.
@@ -49,3 +47,11 @@ I'm a passionate student of network engineering, hailing from the picturesque to
 - Portfolio Web: https://thariduniroshan530.github.io/Portfolio_Website/
 
 ### Let's Secure the Digital World Together! 💻🔒
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/thariduniroshan/
+- Twitter: https://twitter.com/Tharidu530
+- Email: thariduniroshan950@gmail.com
+- Portfolio Web: https://thariduniroshan530.github.io/Portfolio_Website/
+
+### Excited to collaborate and innovate in the world of networking! Let's build the networks of tomorrow together. 💻🌐
