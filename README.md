@@ -1,7 +1,7 @@
 # Hello, I'm Thihara 👋
 
 ## About Me
-I'm a passionate student of network engineering, hailing from the picturesque town of Colombo. Fascinated by the intricacies of network design and optimization, I'm constantly exploring new concepts and technologies to deepen my understanding of this ever-evolving field. Currently pursuing my studies at the University of Moratuwa(ITUM), I aspire to contribute to the advancement of networking technology in the digital age.
+I'm a student at the Institute of Technology, University of Moratuwa, deeply passionate about cybersecurity. My studies focus on understanding network security and digital defenses. I'm eager to apply my knowledge to real-world challenges and contribute to the cybersecurity field.
 
 ## Skills
 
