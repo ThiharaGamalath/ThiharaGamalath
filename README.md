@@ -31,9 +31,12 @@ I’m a student at the Institute of Technology, University of Moratuwa, with a s
 [![Thihara Gamalath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiharaGamalath&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects  
-- **[Project Name]:** Brief description of the project.  
-- **[Project Name]:** Brief description of the project.  
-- **[Project Name]:** Brief description of the project.
+
+### EDUPORTAL LMS Management System  
+This project is the **EDUPORTAL Learning Management System**, designed to provide a comprehensive and user-friendly platform for educational institutions. It facilitates easy access to academic resources, module management, performance tracking, and more. The system includes features like registration, login, student and admin dashboards, and advanced reporting tools.  
+- **Technologies Used:** React.js, CSS, JavaScript  
+- **Features:** Course Management, Student Performance Tracking, Admin Controls, Registration & Login, Dashboards
+ 
 
 ## Get in Touch  
 - LinkedIn: [https://www.linkedin.com/in/thariduniroshan/](https://www.linkedin.com/in/thariduniroshan/)  
