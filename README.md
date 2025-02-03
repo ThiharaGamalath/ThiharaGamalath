@@ -3,12 +3,13 @@
 ## About Me
 I’m a student at the Institute of Technology, University of Moratuwa, with a strong foundation in computer science and a passion for network engineering, DevOps, and software development. I’m excited to apply my skills to real-world challenges and contribute to creating efficient, scalable, and reliable systems.
 
-Skills
+# Skills
 
 Network Design and Implementation: Proficient in designing and implementing scalable network infrastructures, including routing and switching configurations.
 DevOps Practices: Familiar with automation, continuous integration/continuous delivery (CI/CD) pipelines, and cloud-native technologies.
 Troubleshooting and Problem Solving: Skilled in diagnosing and resolving complex network and system issues, optimizing performance, and ensuring uninterrupted connectivity.
-Languages and Tools
+
+# Languages and Tools
 🛠️ Technologies and Tools I work with:
 
 Networking Hardware: Cisco, Juniper, Arista
