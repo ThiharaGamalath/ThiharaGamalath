@@ -1,27 +1,25 @@
 # Hello, I'm Thihara 👋
 
 ## About Me
-I'm a student at the Institute of Technology, University of Moratuwa, deeply passionate about cybersecurity. My studies focus on understanding network security and digital defenses. I'm eager to apply my knowledge to real-world challenges and contribute to the cybersecurity field.
+I’m a student at the Institute of Technology, University of Moratuwa, with a strong foundation in computer science and a passion for network engineering, DevOps, and software development. I’m excited to apply my skills to real-world challenges and contribute to creating efficient, scalable, and reliable systems.
 
-## Skills
+Skills
 
-- **Network Design and Implementation:** Proficient in designing and implementing scalable and resilient network infrastructures, including routing and switching configurations.
-- **Network Protocols:** Solid understanding of TCP/IP, OSPF, BGP, VLAN, and other networking protocols.
-- **Firewall Configuration and Security:** Experienced in configuring firewalls, implementing VPNs, and securing network perimeters to protect against unauthorized access and cyber threats.
-- **Troubleshooting and Problem Solving:** Skilled in diagnosing and resolving complex network issues, optimizing network performance, and ensuring uninterrupted connectivity.
+Network Design and Implementation: Proficient in designing and implementing scalable network infrastructures, including routing and switching configurations.
+DevOps Practices: Familiar with automation, continuous integration/continuous delivery (CI/CD) pipelines, and cloud-native technologies.
+Troubleshooting and Problem Solving: Skilled in diagnosing and resolving complex network and system issues, optimizing performance, and ensuring uninterrupted connectivity.
+Languages and Tools
+🛠️ Technologies and Tools I work with:
+
+Networking Hardware: Cisco, Juniper, Arista
+Routing Protocols: OSPF, BGP, EIGRP
+Switching Technologies: VLANs, STP, VTP
+Automation and Scripting: Python, Bash scripting for automation tasks
+Cloud Networking: AWS, Azure, and GCP networking services
+DevOps Tools: Docker, Jenkins, Kubernetes (basic understanding)
+Virtualization: VMware, VirtualBox
 
 
-
-## Languages and Tools
-🛠️ Some of the languages and tools I'm proficient in include:
-- **Networking Hardware:** Cisco, Juniper, Arista
-- **Routing Protocols:** OSPF, BGP, EIGRP
-- **Switching Technologies:** VLANs, STP, VTP
-- **Network Security:** Firewall Configuration (Cisco ASA, Palo Alto), VPNs, IDS/IPS
-- **Network Monitoring:** Wireshark, Nagios, SNMP
-- **Virtualization:** VMware, VirtualBox
-- **Scripting and Automation:** Python, Bash scripting for network automation tasks
-- **Cloud Networking:** Understanding of AWS, Azure, and GCP networking services
 
 
 
