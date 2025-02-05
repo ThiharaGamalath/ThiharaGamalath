@@ -1,22 +1,21 @@
 # Hello, I'm Thihara 👋
 
 ## About Me  
-I’m a student at the Institute of Technology, University of Moratuwa, with a solid foundation in computer science and a passion for network engineering, DevOps, and software development. I’m excited to apply my skills to real-world challenges and contribute to building efficient, scalable, and reliable systems.
+I’m a student at the **Institute of Technology, University of Moratuwa**, with a solid foundation in computer science and a passion for **software development**. I’m excited to apply my skills to real-world challenges and contribute to building efficient, scalable, and reliable software solutions.
 
 ## Skills  
-- **Network Design and Implementation:** Proficient in designing and implementing scalable network infrastructures, including routing and switching configurations.  
-- **DevOps Practices:** Familiar with automation, continuous integration/continuous delivery (CI/CD) pipelines, and cloud-native technologies.  
-- **Troubleshooting and Problem Solving:** Skilled in diagnosing and resolving complex network and system issues, optimizing performance, and ensuring uninterrupted connectivity.
+- **Software Development:** Proficient in designing, developing, and maintaining scalable applications using modern software engineering practices.  
+- **Troubleshooting and Problem Solving:** Skilled in diagnosing and resolving software issues, optimizing performance, and ensuring smooth system functionality.  
+- **Software Design & Architecture:** Familiar with object-oriented design, design patterns, and creating scalable, maintainable software architectures.
 
 ## Languages and Tools  
 🛠️ **Technologies and Tools I work with:**  
-- **Networking Hardware:** Cisco, Juniper, Arista  
-- **Routing Protocols:** OSPF, BGP, EIGRP  
-- **Switching Technologies:** VLANs, STP, VTP  
-- **Automation and Scripting:** Python, Bash scripting for automation tasks  
-- **Cloud Networking:** AWS, Azure, and GCP networking services  
-- **DevOps Tools:** Docker, Jenkins, Kubernetes (basic understanding)  
-- **Virtualization:** VMware, VirtualBox  
+- **Languages:** Java, Python, JavaScript, C++  
+- **Web Development:** React.js, HTML, CSS, Node.js  
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git, GitHub  
+- **Development Tools:** Visual Studio Code, IntelliJ IDEA  
+- **Software Engineering Practices:** Agile, Test-Driven Development (TDD)
 
 ## GitHub Stats  
 ![Thihara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiharaGamalath&show_icons=true&theme=radical)
@@ -32,18 +31,20 @@ I’m a student at the Institute of Technology, University of Moratuwa, with a s
 
 ## Projects  
 
-### EDUPORTAL LMS Management System  
+### **EDUPORTAL LMS Management System**  
 This project is the **EDUPORTAL Learning Management System**, designed to provide a comprehensive and user-friendly platform for educational institutions. It facilitates easy access to academic resources, module management, performance tracking, and more. The system includes features like registration, login, student and admin dashboards, and advanced reporting tools.  
 - **Technologies Used:** React.js, CSS, JavaScript  
 - **Features:** Course Management, Student Performance Tracking, Admin Controls, Registration & Login, Dashboards
- 
+
+### **[Project Name]**  
+Add details about another project here.
 
 ## Get in Touch  
-- LinkedIn: [https://www.linkedin.com/in/thariduniroshan/](https://www.linkedin.com/in/thariduniroshan/)  
-- Twitter: [https://twitter.com/Tharidu530](https://twitter.com/Tharidu530)  
-- Email: [thariduniroshan950@gmail.com](mailto:thariduniroshan950@gmail.com)  
-- Portfolio Web: [https://thariduniroshan530.github.io/Portfolio_Website/](https://thariduniroshan530.github.io/Portfolio_Website/)
+- **LinkedIn**: [https://www.linkedin.com/in/thariduniroshan/](https://www.linkedin.com/in/thariduniroshan/)  
+- **Twitter**: [https://twitter.com/Tharidu530](https://twitter.com/Tharidu530)  
+- **Email**: [thariduniroshan950@gmail.com](mailto:thariduniroshan950@gmail.com)  
+- **Portfolio Web**: [https://thariduniroshan530.github.io/Portfolio_Website/](https://thariduniroshan530.github.io/Portfolio_Website/)
 
 ---
 
-### Excited to collaborate and innovate in the world of networking! Let's build the networks of tomorrow together. 💻🌐
+### Excited to collaborate and innovate in the world of software engineering! Let's build the future together. 💻🌐
