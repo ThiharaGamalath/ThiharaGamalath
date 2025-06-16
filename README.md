@@ -36,15 +36,6 @@ This project is the **EDUPORTAL Learning Management System**, designed to provid
 - **Technologies Used:** React.js, CSS, JavaScript  
 - **Features:** Course Management, Student Performance Tracking, Admin Controls, Registration & Login, Dashboards
 
-### **[Project Name]**  
-Add details about another project here.
-
-## Get in Touch  
-- **LinkedIn**: [https://www.linkedin.com/in/thariduniroshan/](https://www.linkedin.com/in/thariduniroshan/)  
-- **Twitter**: [https://twitter.com/Tharidu530](https://twitter.com/Tharidu530)  
-- **Email**: [thariduniroshan950@gmail.com](mailto:thariduniroshan950@gmail.com)  
-- **Portfolio Web**: [https://thariduniroshan530.github.io/Portfolio_Website/](https://thariduniroshan530.github.io/Portfolio_Website/)
-
 ---
 
 ### Excited to collaborate and innovate in the world of software engineering! Let's build the future together. 💻🌐
